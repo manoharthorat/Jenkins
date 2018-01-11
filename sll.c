@@ -47,7 +47,8 @@ int main()
 	Insert(&first,40);
 	Insert(&first,50);
 	Insert(&first,60);
-	Insert(&first,70);
+	Insert(&first,70);	
+	Insert(&first,80);
 	Display(first);
 
 return 0;
